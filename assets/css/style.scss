@@ -2,4 +2,5 @@
 ---
 @import "{{ site.theme }}";
 @import url(//fonts.googleapis.com/earlyaccess/notonaskharabicui.css);
-html {direction: rtl; font-family: "Noto Naskh Arabic UI", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;}
+html {direction: rtl;}
+body {font-family: "Noto Naskh Arabic UI", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;}
